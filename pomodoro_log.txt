@@ -1,0 +1,7 @@
+pygame 2.5.2 (SDL 2.28.3, Python 3.11.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Enter work time in minutes: Traceback (most recent call last):
+  File "/Users/kyawswuanyee/Development/pomodoro/pomodoro_timer.py", line 53, in <module>
+    work_time = int(input("Enter work time in minutes: "))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
